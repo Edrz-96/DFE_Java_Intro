@@ -1,7 +1,5 @@
 # DFE_Java_Intro
 
-# TGW_Java_Intro
-
 ### Exercise 1 – HelloWorld
 #### Overview:
 First, we need to make sure that we have installed Java (cli > java -version). After which we should ensure we have an IDE installed (Eclipse). Then we can create a Java Project as tasked below. 
