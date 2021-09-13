@@ -33,13 +33,21 @@ Firstly there should be no capital letters in the package name, the package shou
 When we declare a variable in Java, we have to specify the type of the value that will be stored within that variable. We do this by giving the variable a type, a reference name, and eventually a value. 
 Where the coloured text is the data type and black text is the variable name. Each variable could be declared to have one of eight primitive data types.
 
-#### Create: 
-*	Create new a new Java project called: DataTypes
-#### Code a project that: 
+#### Task 1:
+##### Create: 
+*	Create new a new Java project called: DataTypes.
+##### Code a class that: 
+*	Declares 3 variables, 2 primitive types and one String.
+*	Print all three to the console.
+*	Create a method which has a return value.
+*	Call that method and print the value it returns to the console.
+#### Task 2:
+##### Code a class that: 
 *	Uses 5 different data types.
 *	Have these printed to the console.
-#### Future steps:
+##### Future steps:
 *	Return the type at console.
+
 ### Exercise 4 – Naming Convention 
 #### Overview:
 In the interests of keeping your code maintainable, either for yourself or for other developers, Java adheres to several naming conventions.
